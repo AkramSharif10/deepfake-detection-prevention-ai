@@ -90,10 +90,4 @@ Once the installation is complete, run the following command in your terminal to
 streamlit run app.py
 A new tab will automatically open in your default web browser at http://localhost:8501. From there, you can upload an image to analyze it.
 
-License
-This project is distributed under the MIT License. See the LICENSE file for more information.
 
-Acknowledgments
-A special thanks to the creators of the datasets used for training the model.
-
-Hat tip to the open-source community for providing the tools and libraries that made this project possible.
