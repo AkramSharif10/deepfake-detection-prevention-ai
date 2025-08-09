@@ -26,3 +26,9 @@ In the web application, browse and select an image you want to analyze. The tool
 
 Tools Used
 PyCharm
+
+
+
+
+
+
